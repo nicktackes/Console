@@ -1,0 +1,220 @@
+{
+  "ns:quickTestResponse": {
+    "@xmlns": {
+      "ns": "http:\/\/SafeNetTokenizer.safenet\/xsd",
+      "ax25": "http:\/\/token.safenet.com\/xsd"
+    },
+    "ns:return": [
+      {
+        "@xmlns": {
+          "xsi": "http:\/\/www.w3.org\/2001\/XMLSchema-instance"
+        },
+        "@xsi:type": "ax25:QuickTestResults",
+        "ax25:testDescription": {
+          "$": "Tokenized 100 values individually"
+        },
+        "ax25:testName": {
+          "$": "T Ind 100"
+        },
+        "ax25:throughputTokensPerSecond": {
+          "$": "5.6670065"
+        },
+        "ax25:totalElapsedTimeMillis": {
+          "$": "17646"
+        },
+        "ax25:totalTokens": {
+          "$": "100"
+        }
+      },
+      {
+        "@xmlns": {
+          "xsi": "http:\/\/www.w3.org\/2001\/XMLSchema-instance"
+        },
+        "@xsi:type": "ax25:QuickTestResults",
+        "ax25:testDescription": {
+          "$": "Re-Tokenized 100 values individually"
+        },
+        "ax25:testName": {
+          "$": "RT Ind 100"
+        },
+        "ax25:throughputTokensPerSecond": {
+          "$": "6.795787"
+        },
+        "ax25:totalElapsedTimeMillis": {
+          "$": "14715"
+        },
+        "ax25:totalTokens": {
+          "$": "100"
+        }
+      },
+      {
+        "@xmlns": {
+          "xsi": "http:\/\/www.w3.org\/2001\/XMLSchema-instance"
+        },
+        "@xsi:type": "ax25:QuickTestResults",
+        "ax25:testDescription": {
+          "$": "De-tokenized 100 values individually"
+        },
+        "ax25:testName": {
+          "$": "G Ind 100"
+        },
+        "ax25:throughputTokensPerSecond": {
+          "$": "16.572754"
+        },
+        "ax25:totalElapsedTimeMillis": {
+          "$": "6034"
+        },
+        "ax25:totalTokens": {
+          "$": "100"
+        }
+      },
+      {
+        "@xmlns": {
+          "xsi": "http:\/\/www.w3.org\/2001\/XMLSchema-instance"
+        },
+        "@xsi:type": "ax25:QuickTestResults",
+        "ax25:testDescription": {
+          "$": "Tokenized 100 values in 10 batches of 10"
+        },
+        "ax25:testName": {
+          "$": "T 10x10"
+        },
+        "ax25:throughputTokensPerSecond": {
+          "$": "10.065425"
+        },
+        "ax25:totalElapsedTimeMillis": {
+          "$": "9935"
+        },
+        "ax25:totalTokens": {
+          "$": "100"
+        }
+      },
+      {
+        "@xmlns": {
+          "xsi": "http:\/\/www.w3.org\/2001\/XMLSchema-instance"
+        },
+        "@xsi:type": "ax25:QuickTestResults",
+        "ax25:testDescription": {
+          "$": "Re-Tokenized 100 values in 10 batches of 10"
+        },
+        "ax25:testName": {
+          "$": "RT 10x10"
+        },
+        "ax25:throughputTokensPerSecond": {
+          "$": "9.982033"
+        },
+        "ax25:totalElapsedTimeMillis": {
+          "$": "10018"
+        },
+        "ax25:totalTokens": {
+          "$": "100"
+        }
+      },
+      {
+        "@xmlns": {
+          "xsi": "http:\/\/www.w3.org\/2001\/XMLSchema-instance"
+        },
+        "@xsi:type": "ax25:QuickTestResults",
+        "ax25:testDescription": {
+          "$": "De-Tokenized 100 values in 10 batches of 10"
+        },
+        "ax25:testName": {
+          "$": "G 10x10"
+        },
+        "ax25:throughputTokensPerSecond": {
+          "$": "33.189514"
+        },
+        "ax25:totalElapsedTimeMillis": {
+          "$": "3013"
+        },
+        "ax25:totalTokens": {
+          "$": "100"
+        }
+      },
+      {
+        "@xmlns": {
+          "xsi": "http:\/\/www.w3.org\/2001\/XMLSchema-instance"
+        },
+        "@xsi:type": "ax25:QuickTestResults",
+        "ax25:testDescription": {
+          "$": "Tokenized 100 values in one batch"
+        },
+        "ax25:testName": {
+          "$": "T 1x100"
+        },
+        "ax25:throughputTokensPerSecond": {
+          "$": "11.753644"
+        },
+        "ax25:totalElapsedTimeMillis": {
+          "$": "8508"
+        },
+        "ax25:totalTokens": {
+          "$": "100"
+        }
+      },
+      {
+        "@xmlns": {
+          "xsi": "http:\/\/www.w3.org\/2001\/XMLSchema-instance"
+        },
+        "@xsi:type": "ax25:QuickTestResults",
+        "ax25:testDescription": {
+          "$": "Re-Tokenized 100 values in one batch"
+        },
+        "ax25:testName": {
+          "$": "RT 1x100"
+        },
+        "ax25:throughputTokensPerSecond": {
+          "$": "11.906179"
+        },
+        "ax25:totalElapsedTimeMillis": {
+          "$": "8399"
+        },
+        "ax25:totalTokens": {
+          "$": "100"
+        }
+      },
+      {
+        "@xmlns": {
+          "xsi": "http:\/\/www.w3.org\/2001\/XMLSchema-instance"
+        },
+        "@xsi:type": "ax25:QuickTestResults",
+        "ax25:testDescription": {
+          "$": "De-Tokenized 100 values in one batch"
+        },
+        "ax25:testName": {
+          "$": "G 1x100"
+        },
+        "ax25:throughputTokensPerSecond": {
+          "$": "36.859566"
+        },
+        "ax25:totalElapsedTimeMillis": {
+          "$": "2713"
+        },
+        "ax25:totalTokens": {
+          "$": "100"
+        }
+      },
+      {
+        "@xmlns": {
+          "xsi": "http:\/\/www.w3.org\/2001\/XMLSchema-instance"
+        },
+        "@xsi:type": "ax25:QuickTestResults",
+        "ax25:testDescription": {
+          "$": "Deleted 300 values in one batch"
+        },
+        "ax25:testName": {
+          "$": "D 1x100"
+        },
+        "ax25:throughputTokensPerSecond": {
+          "$": "6.0201073"
+        },
+        "ax25:totalElapsedTimeMillis": {
+          "$": "16611"
+        },
+        "ax25:totalTokens": {
+          "$": "100"
+        }
+      }
+    ]
+  }
+}

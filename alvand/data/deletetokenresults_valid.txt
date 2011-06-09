@@ -1,0 +1,64 @@
+{
+  "ns:deleteTokenBatchResponse": {
+    "@xmlns": {
+      "ns": "http:\/\/SafeNetTokenizer.safenet\/xsd",
+      "ax21": "http:\/\/token.safenet.com\/xsd"
+    },
+    "ns:return": [
+      {
+        "@xmlns": {
+          "xsi": "http:\/\/www.w3.org\/2001\/XMLSchema-instance"
+        },
+        "@xsi:type": "ax21:Response",
+        "ax21:executionTimeMillis": {
+          "$": "890"
+        },
+        "ax21:sensitiveValue": {
+          "@xsi:nil": "true"
+        },
+        "ax21:status": {
+          "@xsi:type": "ax21:Status",
+          "ax21:statusCode": {
+            "$": "SUCCESS"
+          },
+          "ax21:statusDescription": {
+            "$": "Success"
+          },
+          "ax21:statusMessage": {
+            "$": "Successfully deleted one token"
+          }
+        },
+        "ax21:tokenValue": {
+          "$": "11112"
+        }
+      },
+      {
+        "@xmlns": {
+          "xsi": "http:\/\/www.w3.org\/2001\/XMLSchema-instance"
+        },
+        "@xsi:type": "ax21:Response",
+         "ax21:executionTimeMillis": {
+          "$": "890"
+        },
+       "ax21:sensitiveValue": {
+          "@xsi:nil": "true"
+        },
+        "ax21:status": {
+          "@xsi:type": "ax21:Status",
+          "ax21:statusCode": {
+            "$": "SUCCESS"
+          },
+          "ax21:statusDescription": {
+            "$": "Success"
+          },
+          "ax21:statusMessage": {
+            "$": "Successfully deleted one token"
+          }
+        },
+        "ax21:tokenValue": {
+          "$": "111123"
+        }
+      }
+    ]
+  }
+}

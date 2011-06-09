@@ -1,0 +1,35 @@
+{
+  "ns:deleteValueBatchResponse": {
+    "@xmlns": {
+      "ns": "http:\/\/SafeNetTokenizer.safenet\/xsd",
+      "ax21": "http:\/\/token.safenet.com\/xsd"
+    },
+    "ns:return": {
+      "@xmlns": {
+        "xsi": "http:\/\/www.w3.org\/2001\/XMLSchema-instance"
+      },
+      "@xsi:type": "ax21:Response",
+      "ax21:executionTimeMillis": {
+        "$": "244"
+      },
+      "ax21:sensitiveValue": {
+        "$": "1111111111"
+      },
+      "ax21:status": {
+        "@xsi:type": "ax21:Status",
+        "ax21:statusCode": {
+          "$": "SUCCESS"
+        },
+        "ax21:statusDescription": {
+          "$": "Success"
+        },
+        "ax21:statusMessage": {
+          "$": "Successfully deleted one value"
+        }
+      },
+      "ax21:tokenValue": {
+        "@xsi:nil": "true"
+      }
+    }
+  }
+}

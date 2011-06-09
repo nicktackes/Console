@@ -1,0 +1,47 @@
+{
+  "ns:createTokenVaultTableResponse": {
+    "@xmlns": {
+      "ns": "http:\/\/SafeNetTokenizer.safenet\/xsd"
+    },
+    "ns:return": {
+      "@xmlns": {
+        "ax23": "http:\/\/token.safenet.com\/xsd",
+        "xsi": "http:\/\/www.w3.org\/2001\/XMLSchema-instance"
+      },
+      "@xsi:type": "ax23:ManagerResponse",
+      "ax23:responseTimeMillis": {
+        "$": "417"
+      },
+      "ax23:status": {
+        "@xsi:type": "ax23:Status",
+        "ax23:statusCode": {
+          "$": "SUCCESS"
+        },
+        "ax23:statusDescription": {
+          "@xsi:nil": "true"
+        },
+        "ax23:statusMessage": {
+          "@xsi:nil": "true"
+        }
+      },
+      "ax23:tableKeyArray": {
+        "@xsi:type": "ax23:TableKey",
+        "ax23:encryptionKey": {
+          "$": "AlvandNew"
+        },
+        "ax23:hmacKey": {
+          "$": "AlvandHMAC"
+        },
+        "ax23:queryDurationMillis": {
+          "$": "100"
+        },
+        "ax23:recordCount": {
+          "$": "10"
+        },
+        "ax23:tableName": {
+          "$": "test6"
+        }
+      }
+    }
+  }
+}
