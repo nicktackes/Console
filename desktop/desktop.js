@@ -596,7 +596,7 @@ MyDesktop.ConfigurationMenuModule = Ext.extend(MyDesktop.ConfigurationModule, {
 					}
 				},{
 					code: 'tokentables',
-					text: 'Tokenized Tables',
+					text: 'Todays Specials',
 					iconCls:'x-icon-tables',
 					handler : this.createWindow,
 					width:734,
@@ -610,7 +610,7 @@ MyDesktop.ConfigurationMenuModule = Ext.extend(MyDesktop.ConfigurationModule, {
                             xtype: 'alviframe',
                             anchor: '-20',
                             environ: scope.app.environ,
-                            url:'http://localhost/ProximitySolutions/animationstudio/www/index.html'
+                            url:'http://localhost/ProximitySolutions/proximitysolutions/ManagementConsole/www/index.html'
                         };
 					}
 				}]
