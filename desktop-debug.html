@@ -1,0 +1,125 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+    <title>Development Desktop</title>
+    <link rel="stylesheet" type="text/css" href="../../lib/ext-3.4.0/resources/css/ext-all.css"/>
+    <link rel="stylesheet" type="text/css" href="../../lib/ext-3.4.0/ux/css/ext-ux-min.css"/>
+    <link type="text/css" rel="stylesheet" href="../../lib/FisheyeMenu/fisheye-min.css"/>
+    <link rel="stylesheet" type="text/css" href="css/desktop-min.css"/>
+
+    <style type="text/css">
+        .x-selectable, .x-selectable * {
+            -moz-user-select: text !important;
+            -khtml-user-select: text !important;
+        }
+    </style>
+
+    <!-- GC -->
+    <!-- LIBS -->
+    <script type="text/javascript" src="../../lib/ext-3.4.0/adapter/ext/ext-base.js"></script>
+    <!-- ENDLIBS -->
+
+    <script type="text/javascript" src="../../lib/ext-3.4.0/ext-all-debug.js"></script>
+
+    <script type="text/javascript" src="../../lib/FisheyeMenu/fisheye-min.js"></script>
+    <script type="text/javascript" src="../../lib/ext-3.4.0/ux/CheckColumn.js"></script>
+    <script type="text/javascript" src="../../lib/ext-3.4.0/ux/uxmediapak.js"></script>
+    <!-- DESKTOP -->
+    <script type="text/javascript" src="js/StartMenu.js"></script>
+    <script type="text/javascript" src="js/TaskBar.js"></script>
+    <script type="text/javascript" src="js/Desktop.js"></script>
+    <script type="text/javascript" src="js/App.js"></script>
+    <script type="text/javascript" src="js/Module.js"></script>
+
+    <script type="text/javascript">
+        var fisheye = false;
+        if (document.location && document.location.href && document.location.href.indexOf('?') > -1) {
+            var paramstring;
+            if (document.location.href.indexOf('#') > -1)
+                paramstring = document.location.href.substring(document.location.href.indexOf('?') + 1, document.location.href.indexOf('#'));
+            else
+                paramstring = document.location.href.substring(document.location.href.indexOf('?') + 1);
+
+            // split up by & to seperate all params
+            if (paramstring) {
+                var paramarray = paramstring.split('&');
+                if (paramarray) {
+                    for (var i = 0; i < paramarray.length; i++) {
+                        var param = paramarray[i].split('=');
+                        if (param && param.length == 2) {
+                            if (param[0] == 'fisheye' && param[1] == 'true')
+                                fisheye = true;
+                        }
+                    }
+                }
+            }
+        }
+
+    </script>
+    <script type="text/javascript" src="js/WizardItinary.js"></script>
+    <script type="text/javascript" src="js/HistoryDispatch.js"></script>
+    <script type="text/javascript" src="js/UserTokenTableStores.js"></script>
+    <script type="text/javascript" src="js/communicator.js"></script>
+    <script type="text/javascript" src="js/stringbuffer.js"></script>
+    <script type="text/javascript" src="js/iframe.js"></script>
+    <script type="text/javascript" src="js/help-panel.js"></script>
+    <script type="text/javascript" src="js/basetoken-form.js"></script>
+    <script type="text/javascript" src="js/login-combo.js"></script>
+    <script type="text/javascript" src="js/tokenmask-combo.js"></script>
+    <script type="text/javascript" src="js/tokentable-combo.js"></script>
+    <script type="text/javascript" src="js/DeletableRowSelectionModel.js"></script>
+    <script type="text/javascript" src="js/dblogin-grid.js"></script>
+    <script type="text/javascript" src="js/createtokentable-form.js"></script>
+    <script type="text/javascript" src="js/tokentables-grid.js"></script>
+    <script type="text/javascript" src="js/createtoken-grid.js"></script>
+    <script type="text/javascript" src="js/resultstoken-grid.js"></script>
+    <script type="text/javascript" src="js/quicktestsummary-grid.js"></script>
+    <script type="text/javascript" src="js/tokenresult-window.js"></script>
+    <script type="text/javascript" src="js/quicktestresult-form.js"></script>
+    <script type="text/javascript" src="js/quicktestresult-window.js"></script>
+    <script type="text/javascript" src="js/quicktest-form.js"></script>
+    <script type="text/javascript" src="js/createtoken-form.js"></script>
+    <script type="text/javascript" src="js/redeemtoken-form.js"></script>
+    <script type="text/javascript" src="js/deletetoken-form.js"></script>
+    <script type="text/javascript" src="js/logviewer-grid.js"></script>
+    <script type="text/javascript" src="js/extjs-log-viewer.js"></script>
+    <script type="text/javascript" src="js/TokenManagementApp.js"></script>
+    <script type="text/javascript" src="js/main.js"></script>
+</head>
+<body scroll="no" class="alv-ie">
+
+<div id="ux-wizard-window-top"></div>
+<div id="x-desktop">
+    <div id="fisheye-menu"></div>
+    <dl id="x-shortcuts">
+        <dt id="dblogins-shortcut">
+            <a href="#"><img src="images/s.gif"/>
+
+                <div>Token Manager</div>
+            </a>
+        </dt>
+        <dt id="dslogins-shortcut">
+            <a href="#"><img src="images/s.gif"/>
+
+                <div>Animation Studio</div>
+            </a>
+        </dt>
+        <dt id="tokentables-shortcut">
+            <a href="#"><img src="images/s.gif"/>
+
+                <div>Todays Specials</div>
+            </a>
+        </dt>
+    </dl>
+</div>
+
+<div id="ux-taskbar">
+    <div id="ux-taskbar-start"></div>
+    <div id="ux-taskbuttons-panel"></div>
+    <div class="x-clear"></div>
+</div>
+
+</body>
+</html>

@@ -1,0 +1,15 @@
+{
+	success: true,
+	msg: "",
+	users:[{
+		name: 'mikeg',
+		fullname: 'Mike Gai'
+	},{
+		name: 'travisb',
+		fullname: 'Travis Barajas'
+	},{
+		name: 'nickt',
+		fullname: 'Nick Tackes'
+	}
+	]
+}

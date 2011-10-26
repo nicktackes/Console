@@ -1,0 +1,235 @@
+<!DOCTYPE HTML>
+<html dir="ltr" lang="en-US">
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+        <title>Packaging on Your Own</title>
+        <link rel="stylesheet" href="assets/css/style.css" type="text/css" media="screen" />
+        <link rel="image_src" href="assets/img/appc_icon.jpg"/>
+        <style>
+            #contentBG ul {
+                margin-bottom: 20px !important;
+            }
+        </style>
+    </head>
+    <body>
+    	<!--
+        <header role="banner">
+            <div id="header">
+                <div class="titlebarLogo">
+                    <h1><a href="/" title="SafeNet Developer Center">Token Management</a></h1>
+                    <div class="arrow">
+                    </div>
+                </div>
+                <div class="squeeze">
+                    <h2><a href="/" title="SafeNet Developer Center">Create a Token</a></h2>
+                </div>
+            </div>
+            <div id="nav">
+                <div class="squeeze">
+                    <nav>
+                        <div class="primary">
+                            <div class="  ">
+                                <a href="#" title="Get Started">Get Started</a>
+                            </div>
+                            <div class="  ">
+                                <a href="#" title="Q&A">Q&A</a>
+                            </div>
+                            <div class="  ">
+                                <a href="#" title="API Docs">API Docs</a>
+                            </div>
+                            <div class="  ">
+                                <a href="" title="Samples">Samples</a>
+                            </div>
+                            <div class="clear">
+                            </div>
+                        </div>
+                    </nav>
+                </div>
+            </div>
+        </header>
+		-->
+        <div id="contentBG">
+            <div class="dropshadow">
+            </div>
+            <div class="squeeze">
+                <div style="min-height:500px;" class="content">
+                    <div>
+                        <h1>Performance</h1>
+                        <p>
+                            The following is a how-to guide for performing application packaging using the command line.
+                        </p>
+                        <h2>Locating your SDK</h2>
+                        <p>
+                            First, you'll need to locate your SDK.  The location of your SDK is dependent on your operating system.
+                        </p>
+                        <h2>Common Locations</h2>
+                        <ul>
+                            <li>
+                                OS X: 
+                                <tt>
+                                    /Library/Application Support/DataSecure/sdk
+                                </tt>
+                            </li>
+                            <li>
+                                Windows: 
+                                <tt>
+                                    %APPDATA%DataSecuresdk
+                                </tt>
+                            </li>
+                            <li>
+                                Linux: 
+                                <tt>
+                                    ~/.DataSecure/sdk
+                                </tt>
+                                or 
+                                <tt>
+                                    /opt/DataSecure/sdk
+                                </tt>
+                            </li>
+                        </ul>
+                        <h2>Find the script</h2>
+                        <p>
+                            Once you've located your SDK directory, go into the directory based on the operating system your machine is running and the runtime version you would like to use.  So, on an OS X system this would be: 
+                            <tt>
+                                /Library/Application Support/DataSecure/sdk/osx/0.4.2
+                            </tt>
+                        </p>
+                        <p>
+                            There will be a number of scripts in this directory, but the one you care about it named 
+                            <tt>
+                                tibuild.py
+                            </tt>.  It's a python script that is used for packaging.  This is the same script we use in the DataSecure Developer tool as well as on our packaging servers in the cloud. The script is written in Python so you'll need to execute it using the Python command (or in Unix variants, you can just execute the script directly).
+                        </p>
+                        <h2>Running the script</h2>
+                        <p>
+                            The script takes a lot of different arguments.  Running the script without any arguments will give you the latest documentation on each. Here's an example usage on OSX:<pre class="javascript codeblock">tibuild.<span class="me1">py</span> <span class="sy0">-</span>d . <span class="sy0">-</span>s <span class="sy0">/</span>Library<span class="sy0">/</span>Application Support<span class="sy0">/</span>DataSecure <span class="sy0">-</span>r \
+        <span class="sy0">-</span>a <span class="sy0">/</span>Library<span class="sy0">/</span>Application Support<span class="sy0">/</span>DataSecure<span class="sy0">/</span>sdk<span class="sy0">/</span>osx<span class="sy0">/</span>0.4.0 myapp</pre>
+                        </p>
+                        <h2>Arguments Explained</h2>
+                        <p>
+                            In this example, we're passing a few arguments, which are explained:
+                        </p>
+                        <ul>
+                            <li>
+                                <tt>
+                                    -d .
+                                </tt>
+                                says output the resulting distribution into the current directory.
+                            </li>
+                            <li>
+                                <tt>
+                                    -s /Library/Application Support/DataSecure
+                                </tt>
+                                is the source folder where your DataSecure is installed. This is the top level folder.
+                            </li>
+                            <li>
+                                <tt>
+                                    -r
+                                </tt>
+                                tells the builder to also execute (run) the package after making it. nice for testing
+                            </li>
+                            <li>
+                                <tt>
+                                    -a /Library/Application Support/DataSecure/sdk/osx/0.4.0
+                                </tt>
+                                is the folder to the assets directory. The assets directory is underneath the SDK for a specific OS/version and contains additional files like icons, etc needed during the packaging process.
+                            </li>
+                            <li>
+                                <tt>
+                                    myapp
+                                </tt>
+                                is the path to the application project folder.  This needs to be the root of the folder where the tiapp.xml file lives.
+                            </li>
+                        </ul>
+                        <h2>Additional Arguments</h2>
+                        <p>
+                            There are a number of optional arguments you can pass to the packager.  Here's some details on just a few:
+                        </p>
+                        <ul>
+                            <li>
+                                <tt>
+                                    -t
+                                </tt>
+                                or 
+                                <tt>
+                                    --type
+                                </tt>
+                                -- You can pass the type of package you want to create - either network (default) or bundle.  A bundle means you want to put everything required to run your application into the app (including the runtime, modules, etc).  This means you'll get a bigger package but means that the application will run without downloading from the network if specific dependencies aren't found on the end-user machine.
+                            </li>
+                            <li>
+                                <tt>
+                                    -l
+                                </tt>
+                                or 
+                                <tt>
+                                    --license
+                                </tt>
+                                -- specify a LICENSE file to use.  You can also just name the file LICENSE.txt at the top of your application project and we'll pick that file up by default.
+                            </li>
+                            <li>
+                                <tt>
+                                    -n
+                                </tt>
+                                or 
+                                <tt>
+                                    --noinstall
+                                </tt>
+                                -- don't run the install dialog by default.
+                            </li>
+                        </ul>
+                        <h2>Limitations</h2>
+                        <p>
+                            There are some inherent limitations in the packaging using the command line.  The biggest limitation is that you can only package for the operating system you're running.  When you package in the cloud, the cloud packaging servers will package across all major variants.  However, when you run the packaging scripts locally, you can only package for your operating system / build type.
+                        </p>
+                        <h2>Packaging DataSecure Developer</h2>
+                        <p>
+                            DataSecure Developer is packaged the same way all other DataSecure applications are packaged.  In fact, we have built DataSecure Developer using DataSecure and it's packaged through the cloud packaging like all other apps.  However, how do you package it to run locally?
+                        </p>
+                        <p>
+                            The easiest is just to check out the source code from the <a href="#">DataSecure Developer GitHub project</a>.  You can then either import the project directly into a current version of DataSecure Developer, or you can just build it from command line using the above instructions).
+                        </p>
+                        <p>
+                            Here's how you can run the same command to package developer (using OSX as example):<pre class="javascript codeblock"><span class="sy0">/</span>Library<span class="sy0">/</span>Application Support<span class="sy0">/</span>DataSecure<span class="sy0">/</span>sdk<span class="sy0">/</span>osx<span class="sy0">/</span>0.4.2<span class="sy0">/</span>tibuild.<span class="me1">py</span> <span class="sy0">-</span>d ~<span class="sy0">/</span>tmp 
+        <span class="sy0">-</span>a <span class="sy0">/</span>Library<span class="sy0">/</span>Application Support<span class="sy0">/</span>DataSecure<span class="sy0">/</span>sdk<span class="sy0">/</span>osx<span class="sy0">/</span>0.4.2 ~<span class="sy0">/</span>DataSecure_developer</pre>
+                            In this case, DataSecure_developer is in my 
+                            <tt>
+                                $HOME
+                            </tt>
+                            folder.  I'm creating the package in my 
+                            <tt>
+                                ~/tmp
+                            </tt>
+                            folder.
+                        </p>
+                    </div>
+                </div>
+                <div class="clear">
+                </div>
+            </div>
+        </div>
+        <footer>
+            <div id="footer">
+                <div class="squeeze">
+                    <div style="height:40px;">
+                        <footer>
+                            <div id="footer">
+                                <div class="squeeze">
+                                    <div class="legal">
+                                        <a href="#"><img style="float:left; margin-right:15px" src="assets/img/a-logo.png" alt="LostCoastStudios" /></a><a href="#">Blog</a>
+                                        | <a href="#">Twitter</a>
+                                        |<a href="#">Privacy Policy</a>
+                                        |<a href="#">Terms and Conditions</a>
+                                        <br/>
+                                        &copy; 2011 Lost Coast Studios. All rights reserved.
+                                    </div>
+                                </div>
+                            </div>
+                        </footer>
+                    </div>
+                    <div class="clear">
+                    </div>
+                </div>
+            </div>
+        </footer>
+    </body>
+</html><!-- cached; page.doc/desktop/packaging._none -->

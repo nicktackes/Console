@@ -2,9 +2,1179 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d3508976-8bef-4989-a17f-7d03e0fba7d8" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/help/assets/img/a-logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/help/assets/img/appc_icon.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/help/assets/img/beacon.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/help/assets/img/dotcom.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/help/assets/img/grain.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/help/assets/img/separator.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/help/assets/img/shadow.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/help/assets/img/sprite-x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/help/assets/img/sprites copy.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/help/assets/img/sprites.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/as_logo_150.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/splash/cfg/images/image01.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/splash/cfg/images/image02.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/splash/cfg/images/img01.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/splash/cfg/images/img02.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/splash/cfg/images/img03.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/splash/cfg/images/img03x.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/splash/cfg/images/img04.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/splash/cfg/images/img05.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/splash/cfg/images/img05.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/splash/cfg/images/img06.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/splash/cfg/images/spacer.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/splash/tm/images/image01.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/splash/tm/images/image02.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/splash/tm/images/img01.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/splash/tm/images/img02.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/splash/tm/images/img03.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/splash/tm/images/img03x.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/splash/tm/images/img04.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/splash/tm/images/img05.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/splash/tm/images/img05.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/splash/tm/images/img06.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/splash/tm/images/spacer.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/all-js-min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/login-min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/desktop-min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/desktop.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/help_topics.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/login_valid.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/desktop-debug.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/desktop-fisheye.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/desktop.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/help/1000.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/help/1001.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/help/1002.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/help/1003.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/help/2000.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/help/2001.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/help/2002.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/help/2003.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/help/4000.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/help/4001.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/help/5000.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/help/6000.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/help/about.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/help/assets/css/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/DeletableRowSelectionModel.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/HistoryDispatch.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/TokenManagementApp.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/UserTokenTableStores.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/WizardItinary.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/basetoken-form.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/communicator.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/createtoken-form.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/createtoken-grid.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/createtokentable-form.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dblogin-grid.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/deletetoken-form.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/extjs-log-viewer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/help-panel.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/iframe.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/login-combo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/login-min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/login.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/logviewer-grid.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/main.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/navigator.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/quicktest-form.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/quicktestresult-form.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/quicktestresult-window.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/quicktestsummary-grid.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/redeemtoken-form.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/resultstoken-grid.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/stringbuffer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/tokenmask-combo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/tokenresult-window.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/tokentable-combo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/tokentables-grid.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/login-debug.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/login.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/splash/cfg/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/splash/cfg/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/splash/tm/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/splash/tm/style.css" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/FisheyeMenu/images/DataSecure48x21.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/FisheyeMenu/images/bg-item-text.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/FisheyeMenu/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/FisheyeMenu/scripts/FisheyeMenu.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/FisheyeMenu/scripts/FisheyeMenuExtention.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/FisheyeMenu/styles/FisheyeMenu.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/.project" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/DeletableRowSelectionModel.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/HistoryDispatch.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/UserTokenTableStores.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/WizardItinary.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/basetoken-form.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/communicator.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/createtoken-form.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/createtoken-grid.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/createtokentable-form.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/css/alvand-min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/css/alvand.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/data/help_topics.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/data/login_valid.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/dblogin-grid.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/deletetoken-form.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/desktop.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/desktop.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/ext_sample.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/ext_sample.htm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/ext_sample.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/help-panel.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/iframe.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/images/as_logo_150.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/CHANGES.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/INCLUDE_ORDER.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/LICENSE.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/adapter/ext/ext-base.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/adapter/jquery/ext-jquery-adapter.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/adapter/jquery/jquery-plugins.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/adapter/jquery/jquery.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/adapter/prototype/effects.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/adapter/prototype/ext-prototype-adapter.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/adapter/prototype/prototype.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/adapter/prototype/scriptaculous.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/adapter/yui/ext-yui-adapter.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/adapter/yui/yui-utilities.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/README.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/ext-air.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/resources/ext-air.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/resources/icons/extlogo128.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/resources/icons/extlogo16.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/resources/icons/extlogo32.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/resources/icons/extlogo48.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/resources/icons/extlogo64.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/resources/images/left-corners.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/resources/images/left-right.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/resources/images/right-corners.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/resources/images/top-bottom.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/.project" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/LICENSE.TXT" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/STasks2.air" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/about.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/adobe/AIRAliases.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/adobe/AIRIntrospector.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/application.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/beep.mp3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/ext-2.0/adapter/ext/ext-base.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/ext-2.0/ext-all.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/ext-2.0/resources/css/ext-all.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/ext-2.0/resources/css/xtheme-gray.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/ext-2.0/resources/images/default/box/corners-blue.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/ext-2.0/resources/images/default/box/corners.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/ext-2.0/resources/images/default/box/l-blue.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/ext-2.0/resources/images/default/box/l.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/ext-2.0/resources/images/default/box/r-blue.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/ext-2.0/resources/images/default/box/r.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/ext-2.0/resources/images/default/box/tb-blue.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/ext-2.0/resources/images/default/box/tb.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/ext-2.0/resources/images/default/button/btn-arrow.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/ext-2.0/resources/images/default/button/btn-sprite.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/ext-2.0/resources/images/default/dd/drop-add.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/ext-2.0/resources/images/default/dd/drop-no.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/ext-2.0/resources/images/default/dd/drop-yes.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/ext-2.0/resources/images/default/editor/tb-sprite.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/ext-2.0/resources/images/default/form/clear-trigger.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/ext-2.0/resources/images/default/form/clear-trigger.psd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/ext-2.0/resources/images/default/form/date-trigger.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/ext-2.0/resources/images/default/form/date-trigger.psd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/ext-2.0/resources/images/default/form/error-tip-corners.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/ext-2.0/resources/images/default/form/exclamation.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/ext-2.0/resources/images/default/form/search-trigger.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/ext-2.0/resources/images/default/form/search-trigger.psd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/ext-2.0/resources/images/default/form/text-bg.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/ext-2.0/resources/images/default/form/trigger-tpl.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/ext-2.0/resources/images/default/form/trigger.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/ext-2.0/resources/images/default/form/trigger.psd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/ext-2.0/resources/images/default/gradient-bg.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/ext-2.0/resources/images/default/grid/Thumbs.db" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/ext-2.0/resources/images/default/grid/arrow-left-white.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/ext-2.0/resources/images/default/grid/arrow-right-white.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/ext-2.0/resources/images/default/grid/col-move-bottom.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/ext-2.0/resources/images/default/grid/col-move-top.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/ext-2.0/resources/images/default/grid/columns.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/ext-2.0/resources/images/default/grid/dirty.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/ext-2.0/resources/images/default/grid/done.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/ext-2.0/resources/images/default/grid/drop-no.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/ext-2.0/resources/images/default/grid/drop-yes.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/ext-2.0/resources/images/default/grid/footer-bg.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/ext-2.0/resources/images/default/grid/grid-blue-hd.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/ext-2.0/resources/images/default/grid/grid-blue-split.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/ext-2.0/resources/images/default/grid/grid-hrow.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/ext-2.0/resources/images/default/grid/grid-loading.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/ext-2.0/resources/images/default/grid/grid-split.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/ext-2.0/resources/images/default/grid/grid-vista-hd.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/ext-2.0/resources/images/default/grid/grid3-hd-btn.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/ext-2.0/resources/images/default/grid/grid3-hrow-over.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/ext-2.0/resources/images/default/grid/grid3-hrow.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/ext-2.0/resources/images/default/grid/grid3-special-col-bg.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/ext-2.0/resources/images/default/grid/grid3-special-col-sel-bg.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/ext-2.0/resources/images/default/grid/group-by.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/ext-2.0/resources/images/default/grid/group-expand-sprite.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/ext-2.0/resources/images/default/grid/hd-pop.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/ext-2.0/resources/images/default/grid/hmenu-asc.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/ext-2.0/resources/images/default/grid/hmenu-desc.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/ext-2.0/resources/images/default/grid/hmenu-lock.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/ext-2.0/resources/images/default/grid/hmenu-lock.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/ext-2.0/resources/images/default/grid/hmenu-unlock.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/ext-2.0/resources/images/default/grid/hmenu-unlock.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/ext-2.0/resources/images/default/grid/invalid_line.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/ext-2.0/resources/images/default/grid/loading.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/ext-2.0/resources/images/default/grid/mso-hd.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/ext-2.0/resources/images/default/grid/nowait.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/ext-2.0/resources/images/default/grid/page-first-disabled.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/ext-2.0/resources/images/default/grid/page-first.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/ext-2.0/resources/images/default/grid/page-last-disabled.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/ext-2.0/resources/images/default/grid/page-last.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/ext-2.0/resources/images/default/grid/page-next-disabled.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/ext-2.0/resources/images/default/grid/page-next.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/ext-2.0/resources/images/default/grid/page-prev-disabled.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/ext-2.0/resources/images/default/grid/page-prev.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/ext-2.0/resources/images/default/grid/pick-button.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/ext-2.0/resources/images/default/grid/refresh.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/ext-2.0/resources/images/default/grid/row-check-sprite.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/ext-2.0/resources/images/default/grid/row-expand-sprite.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/ext-2.0/resources/images/default/grid/row-over.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/ext-2.0/resources/images/default/grid/row-sel.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/ext-2.0/resources/images/default/grid/sort_asc.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/ext-2.0/resources/images/default/grid/sort_desc.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/ext-2.0/resources/images/default/grid/wait.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/ext-2.0/resources/images/default/layout/collapse.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/ext-2.0/resources/images/default/layout/expand.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/ext-2.0/resources/images/default/layout/gradient-bg.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/ext-2.0/resources/images/default/layout/mini-bottom.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/ext-2.0/resources/images/default/layout/mini-left.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/ext-2.0/resources/images/default/layout/mini-right.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/ext-2.0/resources/images/default/layout/mini-top.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/ext-2.0/resources/images/default/layout/ns-collapse.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/ext-2.0/resources/images/default/layout/ns-expand.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/ext-2.0/resources/images/default/layout/panel-close.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/ext-2.0/resources/images/default/layout/panel-title-bg.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/ext-2.0/resources/images/default/layout/panel-title-light-bg.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/ext-2.0/resources/images/default/layout/stick.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/ext-2.0/resources/images/default/layout/stuck.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/ext-2.0/resources/images/default/layout/tab-close-on.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/ext-2.0/resources/images/default/layout/tab-close.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/ext-2.0/resources/images/default/menu/checked.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/ext-2.0/resources/images/default/menu/group-checked.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/ext-2.0/resources/images/default/menu/item-over.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/ext-2.0/resources/images/default/menu/menu-parent.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/ext-2.0/resources/images/default/menu/menu.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/ext-2.0/resources/images/default/menu/unchecked.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/ext-2.0/resources/images/default/panel/corners-sprite.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/ext-2.0/resources/images/default/panel/left-right.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/ext-2.0/resources/images/default/panel/light-hd.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/ext-2.0/resources/images/default/panel/tool-sprite-tpl.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/ext-2.0/resources/images/default/panel/tool-sprites.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/ext-2.0/resources/images/default/panel/tools-sprites-trans.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/ext-2.0/resources/images/default/panel/top-bottom.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/ext-2.0/resources/images/default/panel/top-bottom.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/ext-2.0/resources/images/default/panel/white-corners-sprite.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/ext-2.0/resources/images/default/panel/white-left-right.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/ext-2.0/resources/images/default/panel/white-top-bottom.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/ext-2.0/resources/images/default/progress/progress-bg.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/ext-2.0/resources/images/default/qtip/bg.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/ext-2.0/resources/images/default/qtip/close.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/ext-2.0/resources/images/default/qtip/tip-sprite.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/ext-2.0/resources/images/default/shadow-c.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/ext-2.0/resources/images/default/shadow-lr.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/ext-2.0/resources/images/default/shadow.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/ext-2.0/resources/images/default/shared/blue-loading.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/ext-2.0/resources/images/default/shared/calendar.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/ext-2.0/resources/images/default/shared/glass-bg.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/ext-2.0/resources/images/default/shared/hd-sprite.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/ext-2.0/resources/images/default/shared/large-loading.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/ext-2.0/resources/images/default/shared/left-btn.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/ext-2.0/resources/images/default/shared/loading-balls.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/ext-2.0/resources/images/default/shared/right-btn.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/ext-2.0/resources/images/default/shared/warning.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/ext-2.0/resources/images/default/sizer/e-handle-dark.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/ext-2.0/resources/images/default/sizer/e-handle.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/ext-2.0/resources/images/default/sizer/ne-handle-dark.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/ext-2.0/resources/images/default/sizer/ne-handle.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/ext-2.0/resources/images/default/sizer/nw-handle-dark.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/ext-2.0/resources/images/default/sizer/nw-handle.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/ext-2.0/resources/images/default/sizer/s-handle-dark.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/ext-2.0/resources/images/default/sizer/s-handle.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/ext-2.0/resources/images/default/sizer/se-handle-dark.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/ext-2.0/resources/images/default/sizer/se-handle.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/ext-2.0/resources/images/default/sizer/square.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/ext-2.0/resources/images/default/sizer/sw-handle-dark.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/ext-2.0/resources/images/default/sizer/sw-handle.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/ext-2.0/resources/images/default/tabs/scroll-left.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/ext-2.0/resources/images/default/tabs/scroll-right.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/ext-2.0/resources/images/default/tabs/scroller-bg.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/ext-2.0/resources/images/default/tabs/tab-btm-inactive-left-bg.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/ext-2.0/resources/images/default/tabs/tab-btm-inactive-right-bg.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/ext-2.0/resources/images/default/tabs/tab-btm-left-bg.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/ext-2.0/resources/images/default/tabs/tab-btm-right-bg.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/ext-2.0/resources/images/default/tabs/tab-close.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/ext-2.0/resources/images/default/tabs/tab-strip-bg.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/ext-2.0/resources/images/default/tabs/tab-strip-bg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/ext-2.0/resources/images/default/tabs/tab-strip-btm-bg.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/ext-2.0/resources/images/default/tabs/tabs-sprite.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/ext-2.0/resources/images/default/toolbar/bg.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/ext-2.0/resources/images/default/toolbar/btn-arrow-light.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/ext-2.0/resources/images/default/toolbar/btn-arrow.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/ext-2.0/resources/images/default/toolbar/btn-over-bg.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/ext-2.0/resources/images/default/toolbar/gray-bg.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/ext-2.0/resources/images/default/toolbar/tb-bg.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/ext-2.0/resources/images/default/toolbar/tb-btn-sprite.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/ext-2.0/resources/images/default/tree/arrows.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/ext-2.0/resources/images/default/tree/drop-add.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/ext-2.0/resources/images/default/tree/drop-between.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/ext-2.0/resources/images/default/tree/drop-no.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/ext-2.0/resources/images/default/tree/drop-over.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/ext-2.0/resources/images/default/tree/drop-under.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/ext-2.0/resources/images/default/tree/drop-yes.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/ext-2.0/resources/images/default/tree/elbow-end-minus-nl.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/ext-2.0/resources/images/default/tree/elbow-end-minus.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/ext-2.0/resources/images/default/tree/elbow-end-plus-nl.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/ext-2.0/resources/images/default/tree/elbow-end-plus.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/ext-2.0/resources/images/default/tree/elbow-end.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/ext-2.0/resources/images/default/tree/elbow-line.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/ext-2.0/resources/images/default/tree/elbow-minus-nl.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/ext-2.0/resources/images/default/tree/elbow-minus.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/ext-2.0/resources/images/default/tree/elbow-plus-nl.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/ext-2.0/resources/images/default/tree/elbow-plus.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/ext-2.0/resources/images/default/tree/elbow.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/ext-2.0/resources/images/default/tree/folder-open.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/ext-2.0/resources/images/default/tree/folder.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/ext-2.0/resources/images/default/tree/leaf.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/ext-2.0/resources/images/default/tree/loading.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/ext-2.0/resources/images/default/tree/s.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/ext-2.0/resources/images/default/window/icon-error.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/ext-2.0/resources/images/default/window/icon-info.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/ext-2.0/resources/images/default/window/icon-question.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/ext-2.0/resources/images/default/window/icon-warning.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/ext-2.0/resources/images/default/window/left-corners.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/ext-2.0/resources/images/default/window/left-corners.psd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/ext-2.0/resources/images/default/window/left-right.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/ext-2.0/resources/images/default/window/left-right.psd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/ext-2.0/resources/images/default/window/right-corners.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/ext-2.0/resources/images/default/window/right-corners.psd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/ext-2.0/resources/images/default/window/top-bottom.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/ext-2.0/resources/images/default/window/top-bottom.psd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/ext-2.0/resources/images/gray/button/btn-arrow.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/ext-2.0/resources/images/gray/button/btn-sprite.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/ext-2.0/resources/images/gray/gradient-bg.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/ext-2.0/resources/images/gray/panel/corners-sprite.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/ext-2.0/resources/images/gray/panel/left-right.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/ext-2.0/resources/images/gray/panel/light-hd.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/ext-2.0/resources/images/gray/panel/tool-sprite-tpl.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/ext-2.0/resources/images/gray/panel/tool-sprites.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/ext-2.0/resources/images/gray/panel/tools-sprites-trans.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/ext-2.0/resources/images/gray/panel/top-bottom.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/ext-2.0/resources/images/gray/panel/top-bottom.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/ext-2.0/resources/images/gray/panel/white-corners-sprite.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/ext-2.0/resources/images/gray/panel/white-left-right.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/ext-2.0/resources/images/gray/panel/white-top-bottom.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/ext-2.0/resources/images/gray/qtip/bg.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/ext-2.0/resources/images/gray/qtip/close.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/ext-2.0/resources/images/gray/qtip/tip-sprite.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/ext-2.0/resources/images/gray/s.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/ext-2.0/resources/images/gray/tabs/scroll-left.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/ext-2.0/resources/images/gray/tabs/scroll-right.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/ext-2.0/resources/images/gray/tabs/scroller-bg.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/ext-2.0/resources/images/gray/tabs/tab-btm-inactive-left-bg.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/ext-2.0/resources/images/gray/tabs/tab-btm-inactive-right-bg.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/ext-2.0/resources/images/gray/tabs/tab-btm-left-bg.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/ext-2.0/resources/images/gray/tabs/tab-btm-right-bg.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/ext-2.0/resources/images/gray/tabs/tab-close.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/ext-2.0/resources/images/gray/tabs/tab-strip-bg.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/ext-2.0/resources/images/gray/tabs/tab-strip-bg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/ext-2.0/resources/images/gray/tabs/tab-strip-btm-bg.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/ext-2.0/resources/images/gray/tabs/tabs-sprite.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/ext-2.0/resources/images/gray/toolbar/bg.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/ext-2.0/resources/images/gray/toolbar/btn-arrow-light.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/ext-2.0/resources/images/gray/toolbar/btn-arrow.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/ext-2.0/resources/images/gray/toolbar/btn-over-bg.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/ext-2.0/resources/images/gray/toolbar/gray-bg.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/ext-2.0/resources/images/gray/toolbar/tb-bg.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/ext-2.0/resources/images/gray/toolbar/tb-btn-sprite.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/ext-2.0/resources/images/gray/window/icon-error.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/ext-2.0/resources/images/gray/window/icon-info.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/ext-2.0/resources/images/gray/window/icon-question.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/ext-2.0/resources/images/gray/window/icon-warning.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/ext-2.0/resources/images/gray/window/left-corners.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/ext-2.0/resources/images/gray/window/left-corners.pspimage" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/ext-2.0/resources/images/gray/window/left-right.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/ext-2.0/resources/images/gray/window/right-corners.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/ext-2.0/resources/images/gray/window/top-bottom.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/ext-2.0/resources/license.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/ext-air/ext-air-debug.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/ext-air/ext-air.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/ext-air/resources/air-resources.jsb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/ext-air/resources/ext-air.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/ext-air/resources/icons/extlogo128.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/ext-air/resources/icons/extlogo16.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/ext-air/resources/icons/extlogo32.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/ext-air/resources/icons/extlogo48.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/ext-air/resources/icons/extlogo64.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/ext-air/resources/images/left-corners.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/ext-air/resources/images/left-right.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/ext-air/resources/images/right-corners.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/ext-air/resources/images/top-bottom.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/images/bell.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/images/check.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/images/delete.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/images/edit.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/images/hd-check.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/images/hrow.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/images/icon-active.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/images/icon-all.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/images/icon-by-category.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/images/icon-by-date.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/images/icon-complete.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/images/icon-delete-task.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/images/icon-filter.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/images/icon-folder-delete.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/images/icon-folder-new.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/images/icon-folder.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/images/icon-list-delete.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/images/icon-list-new.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/images/icon-list.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/images/icon-mark-active.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/images/icon-mark-complete.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/images/icon-multi-list.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/images/icon-no-group.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/images/icon-paste-new.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/images/icon-show-active.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/images/icon-show-all.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/images/icon-show-complete.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/images/my-lists.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/images/panel-header.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/images/rbtn.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/images/reminder-hd.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/images/s.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/js/DateTimeField.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/js/Exporter.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/js/Importer.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/js/ListLoader.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/js/ListSelector.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/js/ListStore.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/js/ListTree.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/js/Reminder.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/js/SelectBox.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/js/SwitchButton.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/js/TaskGrid.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/js/TaskStore.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/js/TaskWindow.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/js/Templates.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/js/TextDate.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/js/TreeSelector.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/js/columns.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/js/data.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/js/ext-config.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/main.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/main.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/mimetype" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/preferences.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/preferences.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/preferences.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/reminder.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/reminder.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/reminder.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/task.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/task.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/task.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/tasks.db" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/src/FileProvider.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/src/NativeDD.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/src/NativeObservable.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/src/NativeWindow.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/src/Sound.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/src/SystemMenu.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/src/SystemTray.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/src/ext-air-adapter.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/src/sql/AirConnection.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/src/sql/Connection.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/src/sql/Proxy.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/src/sql/Table.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/ext-all-debug.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/ext-all.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/ext-core-debug.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/ext-core.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/css/README.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/css/borders.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/css/box.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/css/button.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/css/combo.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/css/core.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/css/date-picker.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/css/dd.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/css/debug.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/css/dialog.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/css/editor.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/css/ext-all.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/css/form.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/css/grid.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/css/layout.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/css/menu.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/css/panel.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/css/progress.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/css/qtips.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/css/reset-min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/css/reset.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/css/resizable.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/css/slider.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/css/tabs.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/css/toolbar.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/css/tree.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/css/window.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/css/xtheme-gray.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/default/box/corners-blue.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/default/box/corners.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/default/box/l-blue.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/default/box/l.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/default/box/r-blue.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/default/box/r.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/default/box/tb-blue.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/default/box/tb.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/default/button/btn-arrow.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/default/button/btn-sprite.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/default/dd/drop-add.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/default/dd/drop-no.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/default/dd/drop-yes.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/default/editor/tb-sprite.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/default/form/checkbox.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/default/form/clear-trigger.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/default/form/clear-trigger.psd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/default/form/date-trigger.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/default/form/date-trigger.psd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/default/form/error-tip-corners.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/default/form/exclamation.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/default/form/radio.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/default/form/search-trigger.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/default/form/search-trigger.psd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/default/form/text-bg.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/default/form/trigger-tpl.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/default/form/trigger.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/default/form/trigger.psd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/default/gradient-bg.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/default/grid/arrow-left-white.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/default/grid/arrow-right-white.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/default/grid/col-move-bottom.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/default/grid/col-move-top.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/default/grid/columns.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/default/grid/dirty.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/default/grid/done.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/default/grid/drop-no.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/default/grid/drop-yes.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/default/grid/footer-bg.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/default/grid/grid-blue-hd.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/default/grid/grid-blue-split.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/default/grid/grid-hrow.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/default/grid/grid-loading.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/default/grid/grid-split.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/default/grid/grid-vista-hd.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/default/grid/grid3-hd-btn.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/default/grid/grid3-hrow-over.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/default/grid/grid3-hrow.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/default/grid/grid3-special-col-bg.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/default/grid/grid3-special-col-sel-bg.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/default/grid/group-by.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/default/grid/group-expand-sprite.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/default/grid/hd-pop.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/default/grid/hmenu-asc.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/default/grid/hmenu-desc.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/default/grid/hmenu-lock.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/default/grid/hmenu-lock.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/default/grid/hmenu-unlock.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/default/grid/hmenu-unlock.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/default/grid/invalid_line.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/default/grid/loading.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/default/grid/mso-hd.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/default/grid/nowait.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/default/grid/page-first-disabled.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/default/grid/page-first.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/default/grid/page-last-disabled.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/default/grid/page-last.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/default/grid/page-next-disabled.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/default/grid/page-next.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/default/grid/page-prev-disabled.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/default/grid/page-prev.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/default/grid/pick-button.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/default/grid/refresh.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/default/grid/row-check-sprite.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/default/grid/row-expand-sprite.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/default/grid/row-over.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/default/grid/row-sel.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/default/grid/sort_asc.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/default/grid/sort_desc.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/default/grid/wait.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/default/layout/collapse.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/default/layout/expand.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/default/layout/gradient-bg.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/default/layout/mini-bottom.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/default/layout/mini-left.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/default/layout/mini-right.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/default/layout/mini-top.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/default/layout/ns-collapse.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/default/layout/ns-expand.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/default/layout/panel-close.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/default/layout/panel-title-bg.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/default/layout/panel-title-light-bg.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/default/layout/stick.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/default/layout/stuck.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/default/layout/tab-close-on.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/default/layout/tab-close.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/default/menu/checked.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/default/menu/group-checked.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/default/menu/item-over.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/default/menu/menu-parent.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/default/menu/menu.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/default/menu/unchecked.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/default/panel/corners-sprite.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/default/panel/left-right.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/default/panel/light-hd.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/default/panel/tool-sprite-tpl.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/default/panel/tool-sprites.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/default/panel/tools-sprites-trans.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/default/panel/top-bottom.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/default/panel/top-bottom.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/default/panel/white-corners-sprite.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/default/panel/white-left-right.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/default/panel/white-top-bottom.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/default/progress/progress-bg.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/default/qtip/bg.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/default/qtip/close.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/default/qtip/tip-sprite.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/default/s.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/default/shadow-c.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/default/shadow-c.psd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/default/shadow-lr.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/default/shadow.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/default/shared/blue-loading.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/default/shared/calendar.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/default/shared/glass-bg.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/default/shared/hd-sprite.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/default/shared/large-loading.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/default/shared/left-btn.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/default/shared/loading-balls.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/default/shared/right-btn.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/default/shared/warning.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/default/sizer/e-handle-dark.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/default/sizer/e-handle.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/default/sizer/ne-handle-dark.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/default/sizer/ne-handle.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/default/sizer/nw-handle-dark.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/default/sizer/nw-handle.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/default/sizer/s-handle-dark.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/default/sizer/s-handle.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/default/sizer/se-handle-dark.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/default/sizer/se-handle.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/default/sizer/square.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/default/sizer/sw-handle-dark.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/default/sizer/sw-handle.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/default/slider/slider-bg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/default/slider/slider-thumb.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/default/slider/slider-v-bg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/default/slider/slider-v-thumb.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/default/tabs/scroll-left.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/default/tabs/scroll-right.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/default/tabs/scroller-bg.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/default/tabs/tab-btm-inactive-left-bg.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/default/tabs/tab-btm-inactive-right-bg.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/default/tabs/tab-btm-left-bg.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/default/tabs/tab-btm-right-bg.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/default/tabs/tab-close.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/default/tabs/tab-strip-bg.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/default/tabs/tab-strip-bg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/default/tabs/tab-strip-btm-bg.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/default/tabs/tabs-sprite.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/default/toolbar/bg.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/default/toolbar/btn-arrow-light.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/default/toolbar/btn-arrow.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/default/toolbar/btn-over-bg.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/default/toolbar/gray-bg.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/default/toolbar/tb-bg.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/default/toolbar/tb-btn-sprite.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/default/tree/arrows.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/default/tree/drop-add.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/default/tree/drop-between.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/default/tree/drop-no.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/default/tree/drop-over.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/default/tree/drop-under.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/default/tree/drop-yes.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/default/tree/elbow-end-minus-nl.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/default/tree/elbow-end-minus.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/default/tree/elbow-end-plus-nl.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/default/tree/elbow-end-plus.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/default/tree/elbow-end.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/default/tree/elbow-line.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/default/tree/elbow-minus-nl.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/default/tree/elbow-minus.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/default/tree/elbow-plus-nl.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/default/tree/elbow-plus.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/default/tree/elbow.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/default/tree/folder-open.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/default/tree/folder.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/default/tree/leaf.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/default/tree/loading.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/default/tree/s.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/default/window/icon-error.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/default/window/icon-info.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/default/window/icon-question.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/default/window/icon-warning.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/default/window/left-corners.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/default/window/left-corners.psd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/default/window/left-right.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/default/window/left-right.psd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/default/window/right-corners.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/default/window/right-corners.psd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/default/window/top-bottom.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/default/window/top-bottom.psd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/gray/button/btn-arrow.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/gray/button/btn-sprite.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/gray/gradient-bg.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/gray/panel/corners-sprite.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/gray/panel/left-right.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/gray/panel/light-hd.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/gray/panel/tool-sprite-tpl.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/gray/panel/tool-sprites.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/gray/panel/tools-sprites-trans.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/gray/panel/top-bottom.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/gray/panel/top-bottom.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/gray/panel/white-corners-sprite.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/gray/panel/white-left-right.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/gray/panel/white-top-bottom.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/gray/qtip/bg.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/gray/qtip/close.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/gray/qtip/tip-sprite.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/gray/s.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/gray/tabs/scroll-left.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/gray/tabs/scroll-right.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/gray/tabs/scroller-bg.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/gray/tabs/tab-btm-inactive-left-bg.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/gray/tabs/tab-btm-inactive-right-bg.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/gray/tabs/tab-btm-left-bg.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/gray/tabs/tab-btm-right-bg.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/gray/tabs/tab-close.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/gray/tabs/tab-strip-bg.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/gray/tabs/tab-strip-bg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/gray/tabs/tab-strip-btm-bg.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/gray/tabs/tabs-sprite.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/gray/toolbar/bg.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/gray/toolbar/btn-arrow-light.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/gray/toolbar/btn-arrow.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/gray/toolbar/btn-over-bg.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/gray/toolbar/gray-bg.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/gray/toolbar/tb-bg.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/gray/toolbar/tb-btn-sprite.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/gray/window/icon-error.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/gray/window/icon-info.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/gray/window/icon-question.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/gray/window/icon-warning.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/gray/window/left-corners.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/gray/window/left-corners.pspimage" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/gray/window/left-right.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/gray/window/right-corners.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/gray/window/top-bottom.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/vista/basic-dialog/bg-center.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/vista/basic-dialog/bg-left.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/vista/basic-dialog/bg-right.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/vista/basic-dialog/close.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/vista/basic-dialog/collapse.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/vista/basic-dialog/dlg-bg.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/vista/basic-dialog/e-handle.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/vista/basic-dialog/expand.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/vista/basic-dialog/hd-sprite.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/vista/basic-dialog/s-handle.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/vista/basic-dialog/se-handle.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/vista/basic-dialog/w-handle.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/vista/gradient-bg.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/vista/grid/grid-split.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/vista/grid/grid-vista-hd.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/vista/layout/collapse.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/vista/layout/expand.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/vista/layout/gradient-bg.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/vista/layout/ns-collapse.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/vista/layout/ns-expand.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/vista/layout/panel-close.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/vista/layout/panel-title-bg.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/vista/layout/panel-title-light-bg.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/vista/layout/stick.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/vista/layout/tab-close-on.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/vista/layout/tab-close.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/vista/qtip/bg.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/vista/qtip/tip-sprite.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/vista/s.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/vista/sizer/e-handle-dark.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/vista/sizer/e-handle.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/vista/sizer/ne-handle-dark.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/vista/sizer/ne-handle.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/vista/sizer/nw-handle-dark.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/vista/sizer/nw-handle.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/vista/sizer/s-handle-dark.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/vista/sizer/s-handle.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/vista/sizer/se-handle-dark.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/vista/sizer/se-handle.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/vista/sizer/sw-handle-dark.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/vista/sizer/sw-handle.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/vista/tabs/tab-btm-inactive-left-bg.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/vista/tabs/tab-btm-inactive-right-bg.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/vista/tabs/tab-btm-left-bg.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/vista/tabs/tab-btm-right-bg.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/vista/tabs/tab-sprite.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/vista/toolbar/gray-bg.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/images/vista/toolbar/tb-btn-sprite.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/legacy/aero/basic-dialog/aero-close-over.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/legacy/aero/basic-dialog/aero-close.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/legacy/aero/basic-dialog/bg-center.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/legacy/aero/basic-dialog/bg-left.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/legacy/aero/basic-dialog/bg-right.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/legacy/aero/basic-dialog/close.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/legacy/aero/basic-dialog/collapse-over.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/legacy/aero/basic-dialog/collapse.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/legacy/aero/basic-dialog/e-handle.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/legacy/aero/basic-dialog/expand-over.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/legacy/aero/basic-dialog/expand.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/legacy/aero/basic-dialog/hd-sprite.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/legacy/aero/basic-dialog/s-handle.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/legacy/aero/basic-dialog/se-handle.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/legacy/aero/basic-dialog/w-handle.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/legacy/aero/gradient-bg.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/legacy/aero/grid/grid-blue-split.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/legacy/aero/grid/grid-hrow.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/legacy/aero/grid/grid-split.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/legacy/aero/grid/grid-vista-hd.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/legacy/aero/grid/pspbrwse.jbf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/legacy/aero/grid/sort-col-bg.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/legacy/aero/grid/sort_asc.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/legacy/aero/grid/sort_desc.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/legacy/aero/layout/collapse.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/legacy/aero/layout/expand.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/legacy/aero/layout/gradient-bg.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/legacy/aero/layout/ns-collapse.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/legacy/aero/layout/ns-expand.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/legacy/aero/layout/panel-close.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/legacy/aero/layout/panel-title-bg.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/legacy/aero/layout/panel-title-light-bg.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/legacy/aero/layout/tab-close-on.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/legacy/aero/layout/tab-close.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/legacy/aero/menu/checked.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/legacy/aero/menu/item-over.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/legacy/aero/menu/menu.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/legacy/aero/menu/unchecked.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/legacy/aero/qtip/bg.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/legacy/aero/s.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/legacy/aero/sizer/e-handle-dark.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/legacy/aero/sizer/e-handle.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/legacy/aero/sizer/ne-handle-dark.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/legacy/aero/sizer/ne-handle.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/legacy/aero/sizer/nw-handle-dark.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/legacy/aero/sizer/nw-handle.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/legacy/aero/sizer/s-handle-dark.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/legacy/aero/sizer/s-handle.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/legacy/aero/sizer/se-handle-dark.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/legacy/aero/sizer/se-handle.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/legacy/aero/sizer/sw-handle-dark.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/legacy/aero/sizer/sw-handle.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/legacy/aero/tabs/tab-btm-inactive-left-bg.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/legacy/aero/tabs/tab-btm-inactive-right-bg.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/legacy/aero/tabs/tab-btm-left-bg.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/legacy/aero/tabs/tab-btm-right-bg.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/legacy/aero/tabs/tab-sprite.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/legacy/aero/tabs/tab-strip-bg.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/legacy/aero/tabs/tab-strip-bg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/legacy/aero/tabs/tab-strip-btm-bg.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/legacy/aero/toolbar/bg.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/legacy/aero/toolbar/tb-btn-sprite.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/legacy/basic-dialog.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/legacy/grid.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/legacy/xtheme-aero.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/legacy/xtheme-vista.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/legacy/ytheme-aero.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/legacy/ytheme-gray.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/legacy/ytheme-vista.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/license.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/raw-images/shadow.psd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/lib/ext/resources/resources.jsb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/login-combo.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/navigator.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/quicktest-form.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/quicktestresult-form.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/quicktestresult-window.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/quicktestsummary-grid.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/redeemtoken-form.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/resultstoken-grid.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/sharedx/examples.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/sharedx/examples.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/sharedx/icons/arrow-down.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/sharedx/icons/arrow-up.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/sharedx/icons/fam/SILK.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/sharedx/icons/fam/application_go.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/sharedx/icons/fam/application_view_list.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/sharedx/icons/fam/cog.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/sharedx/icons/fam/cog_edit.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/sharedx/icons/fam/connect.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/sharedx/icons/fam/cross.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/sharedx/icons/fam/delete.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/sharedx/icons/fam/feed_add.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/sharedx/icons/fam/feed_delete.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/sharedx/icons/fam/feed_error.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/sharedx/icons/fam/folder_go.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/sharedx/icons/fam/folder_wrench.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/sharedx/icons/fam/plugin_add.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/sharedx/icons/fam/rss_go.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/sharedx/icons/fam/table_refresh.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/sharedx/icons/fam/user.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/sharedx/icons/fam/user_add.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/sharedx/icons/fam/user_comment.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/sharedx/icons/fam/user_delete.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/sharedx/icons/fam/user_edit.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/sharedx/icons/fam/user_female.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/sharedx/icons/fam/user_gray.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/sharedx/icons/fam/user_green.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/sharedx/icons/fam/user_orange.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/sharedx/icons/fam/user_red.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/sharedx/icons/fam/user_suit.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/sharedx/icons/save.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/sharedx/screens/air.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/sharedx/screens/anchor.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/sharedx/screens/border-layout.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/sharedx/screens/combo-custom.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/sharedx/screens/combo.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/sharedx/screens/data-view.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/sharedx/screens/desktop.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/sharedx/screens/feeds.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/sharedx/screens/form-custom.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/sharedx/screens/form-dynamic.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/sharedx/screens/form-xml.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/sharedx/screens/grid-array.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/sharedx/screens/grid-edit.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/sharedx/screens/grid-grouping.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/sharedx/screens/grid-paging.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/sharedx/screens/grid-plugins.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/sharedx/screens/grid-summary.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/sharedx/screens/grid-xml.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/sharedx/screens/msg-box.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/sharedx/screens/organizer.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/sharedx/screens/panel.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/sharedx/screens/portal.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/sharedx/screens/progress.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/sharedx/screens/resizable.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/sharedx/screens/tabs-adv.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/sharedx/screens/tabs.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/sharedx/screens/tasks.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/sharedx/screens/templates.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/sharedx/screens/toolbar-actions.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/sharedx/screens/toolbar.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/sharedx/screens/tree-columns.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/sharedx/screens/tree-reorder.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/sharedx/screens/tree-two.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/sharedx/screens/window-layout.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/sharedx/screens/window.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/stringbuffer.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/tokenmask-combo.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/tokenresult-window.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/tokentable-combo.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/tokentables-grid.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/ux/CheckColumn.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/ux/GroupTab.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/ux/GroupTabPanel.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/ux/XmlTreeLoader.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/ux/css/GroupTab.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/ux/images/bottom2.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/ux/images/down2.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/ux/images/elbow-minus-nl.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/ux/images/elbow-plus-nl.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/ux/images/left2.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/ux/images/panel-handle.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/ux/images/right2.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/ux/images/row-editor-bg.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/ux/images/row-editor-btns.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/ux/images/spinner-split.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/ux/images/spinner.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/ux/images/summary-bg.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/ux/images/summary-group-bg.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/ux/images/top2.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/ux/images/up2.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/ux/images/x-grouptabs-corners-old.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/ux/images/x-grouptabs-corners.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/ux/images/x-grouptabs-cornersx.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alvand/ux/uxmediapak.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/desktop/.project" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/desktop/TokenManagementApp.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/desktop/all-js-min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/desktop/compressjs.sh" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/desktop/credits.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/desktop/css/desktop-min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/desktop/css/desktop.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/desktop/desktop-debug.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/desktop/desktop-fisheye.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/desktop/desktop.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/desktop/desktop.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/desktop/extjs-log-viewer.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/desktop/images/database48x48.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/desktop/images/delete48x48.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/desktop/images/gears.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/desktop/images/grid.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/desktop/images/grid48x48.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/desktop/images/icon_padlock.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/desktop/images/logviewer48x48.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/desktop/images/redeem48x48.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/desktop/images/s.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/desktop/images/token48x48.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/desktop/images/wizard48x48.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/desktop/login-debug.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/desktop/login-min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/desktop/login.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/desktop/login.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/desktop/logviewer-grid.js" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/FisheyeMenu/images/database48x48.gif" afterPath="$PROJECT_DIR$/images/database48x48.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/FisheyeMenu/images/delete48x48.png" afterPath="$PROJECT_DIR$/images/delete48x48.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/FisheyeMenu/images/grid48x48.png" afterPath="$PROJECT_DIR$/images/grid48x48.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/FisheyeMenu/images/logviewer48x48.png" afterPath="$PROJECT_DIR$/images/logviewer48x48.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/FisheyeMenu/images/redeem48x48.png" afterPath="$PROJECT_DIR$/images/redeem48x48.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/FisheyeMenu/images/token48x48.png" afterPath="$PROJECT_DIR$/images/token48x48.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/FisheyeMenu/images/wizard48x48.png" afterPath="$PROJECT_DIR$/images/wizard48x48.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/alvand/data/createtokenresults2_invalid.txt" afterPath="$PROJECT_DIR$/data/createtokenresults2_invalid.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/alvand/data/createtokenresults2_valid.txt" afterPath="$PROJECT_DIR$/data/createtokenresults2_valid.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/alvand/data/createtokenresults3_valid.txt" afterPath="$PROJECT_DIR$/data/createtokenresults3_valid.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/alvand/data/createtokenresults_invalid.txt" afterPath="$PROJECT_DIR$/data/createtokenresults_invalid.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/alvand/data/createtokenresults_valid.txt" afterPath="$PROJECT_DIR$/data/createtokenresults_valid.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/alvand/data/deletetokenresults2_valid.txt" afterPath="$PROJECT_DIR$/data/deletetokenresults2_valid.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/alvand/data/deletetokenresults_invalid.txt" afterPath="$PROJECT_DIR$/data/deletetokenresults_invalid.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/alvand/data/deletetokenresults_valid.txt" afterPath="$PROJECT_DIR$/data/deletetokenresults_valid.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/alvand/data/deletevalueresults_invalid.txt" afterPath="$PROJECT_DIR$/data/deletevalueresults_invalid.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/alvand/data/deletevalueresults_valid.txt" afterPath="$PROJECT_DIR$/data/deletevalueresults_valid.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/alvand/data/log_response.txt" afterPath="$PROJECT_DIR$/data/log_response.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/alvand/data/quicktestinputdata_valid.txt" afterPath="$PROJECT_DIR$/data/quicktestinputdata_valid.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/alvand/data/quicktestresults_valid.txt" afterPath="$PROJECT_DIR$/data/quicktestresults_valid.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/alvand/data/redeemtokenresults2_valid.txt" afterPath="$PROJECT_DIR$/data/redeemtokenresults2_valid.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/alvand/data/redeemtokenresults3_valid.txt" afterPath="$PROJECT_DIR$/data/redeemtokenresults3_valid.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/alvand/data/redeemtokenresults_invalid.txt" afterPath="$PROJECT_DIR$/data/redeemtokenresults_invalid.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/alvand/data/redeemtokenresults_valid.txt" afterPath="$PROJECT_DIR$/data/redeemtokenresults_valid.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/alvand/data/requesttokenresults_valid.txt" afterPath="$PROJECT_DIR$/data/requesttokenresults_valid.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/alvand/data/savetokenizedtables2_valid.txt" afterPath="$PROJECT_DIR$/data/savetokenizedtables2_valid.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/alvand/data/savetokenizedtables_invalid.txt" afterPath="$PROJECT_DIR$/data/savetokenizedtables_invalid.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/alvand/data/savetokenizedtables_valid.txt" afterPath="$PROJECT_DIR$/data/savetokenizedtables_valid.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/alvand/data/tokenizedtables2_valid.txt" afterPath="$PROJECT_DIR$/data/tokenizedtables2_valid.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/alvand/data/tokenizedtables_invalid.txt" afterPath="$PROJECT_DIR$/data/tokenizedtables_invalid.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/alvand/data/tokenizedtables_valid.txt" afterPath="$PROJECT_DIR$/data/tokenizedtables_valid.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/alvand/images/Back2Icon.jpg" afterPath="$PROJECT_DIR$/images/Back2Icon.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/alvand/images/Back2Icon.png" afterPath="$PROJECT_DIR$/images/Back2Icon.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/alvand/images/Forward2Icon.jpg" afterPath="$PROJECT_DIR$/images/Forward2Icon.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/alvand/images/Forward2Icon.png" afterPath="$PROJECT_DIR$/images/Forward2Icon.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/alvand/images/add.png" afterPath="$PROJECT_DIR$/images/add.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/alvand/images/alvand_eye_150.jpg" afterPath="$PROJECT_DIR$/images/alvand_eye_150.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/alvand/images/alvand_eye_32.png" afterPath="$PROJECT_DIR$/images/alvand_eye_32.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/alvand/images/alvand_eye_50.jpg" afterPath="$PROJECT_DIR$/images/alvand_eye_50.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/alvand/images/as_logo_150.jpg" afterPath="$PROJECT_DIR$/images/as_logo_150.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/alvand/images/as_logo_83_22.jpg" afterPath="$PROJECT_DIR$/images/as_logo_83_22.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/alvand/images/as_logo_83_22.png" afterPath="$PROJECT_DIR$/images/as_logo_83_22.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/alvand/images/banner.jpeg" afterPath="$PROJECT_DIR$/images/banner.jpeg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/alvand/images/blank.png" afterPath="$PROJECT_DIR$/images/blank.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/alvand/images/book.png" afterPath="$PROJECT_DIR$/images/book.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/alvand/images/crossbones.gif" afterPath="$PROJECT_DIR$/images/crossbones.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/alvand/images/debug.png" afterPath="$PROJECT_DIR$/images/debug.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/alvand/images/delete.gif" afterPath="$PROJECT_DIR$/images/delete.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/alvand/images/error.png" afterPath="$PROJECT_DIR$/images/error.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/alvand/images/gears.png" afterPath="$PROJECT_DIR$/images/gears.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/alvand/images/group.png" afterPath="$PROJECT_DIR$/images/group.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/alvand/images/icon_padlock.png" afterPath="$PROJECT_DIR$/images/icon_padlock.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/alvand/images/info-bg.gif" afterPath="$PROJECT_DIR$/images/info-bg.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/alvand/images/info16.gif" afterPath="$PROJECT_DIR$/images/info16.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/alvand/images/information.png" afterPath="$PROJECT_DIR$/images/information.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/alvand/images/large-loading.gif" afterPath="$PROJECT_DIR$/images/large-loading.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/alvand/images/loading-balls.gif" afterPath="$PROJECT_DIR$/images/loading-balls.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/alvand/images/logo.gif" afterPath="$PROJECT_DIR$/images/logo.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/alvand/images/pause.png" afterPath="$PROJECT_DIR$/images/pause.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/alvand/images/reset.gif" afterPath="$PROJECT_DIR$/images/reset.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/alvand/images/safenet.gif" afterPath="$PROJECT_DIR$/images/safenet.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/alvand/images/saved.png" afterPath="$PROJECT_DIR$/images/saved.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/alvand/images/start.gif" afterPath="$PROJECT_DIR$/images/start.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/alvand/images/stop.png" afterPath="$PROJECT_DIR$/images/stop.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/alvand/images/subscriptions.png" afterPath="$PROJECT_DIR$/images/subscriptions.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/alvand/images/templates.png" afterPath="$PROJECT_DIR$/images/templates.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/alvand/images/tickets.png" afterPath="$PROJECT_DIR$/images/tickets.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/ext-2.0/resources/images/default/s.gif" afterPath="$PROJECT_DIR$/images/s.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/alvand/lib/ext/air/samples/tasks/images/save.gif" afterPath="$PROJECT_DIR$/images/save.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/alvand/sharedx/icons/fam/add.gif" afterPath="$PROJECT_DIR$/images/add.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/alvand/sharedx/icons/fam/connect.gif" afterPath="$PROJECT_DIR$/images/connect.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/alvand/sharedx/icons/fam/grid.png" afterPath="$PROJECT_DIR$/images/grid.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/alvand/sharedx/icons/fam/plugin.gif" afterPath="$PROJECT_DIR$/images/plugin.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/alvand/sharedx/icons/fam/user.gif" afterPath="$PROJECT_DIR$/images/user.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/alvand/sharedx/icons/fam/user_add.gif" afterPath="$PROJECT_DIR$/images/user_add.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/alvand/sharedx/icons/fam/user_delete.gif" afterPath="$PROJECT_DIR$/images/user_delete.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/alvand/sharedx/icons/fam/user_female.gif" afterPath="$PROJECT_DIR$/images/user_female.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/alvand/sharedx/icons/fam/user_green.gif" afterPath="$PROJECT_DIR$/images/user_green.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/alvand/sharedx/icons/fam/user_suit.gif" afterPath="$PROJECT_DIR$/images/user_suit.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/desktop/images/DataSecure48x11.png" afterPath="$PROJECT_DIR$/images/DataSecure48x11.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/desktop/images/DataSecure48x21.png" afterPath="$PROJECT_DIR$/images/DataSecure48x21.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/desktop/images/DataSecure48x48.png" afterPath="$PROJECT_DIR$/images/DataSecure48x48.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/desktop/images/DataSecure_i116.jpg" afterPath="$PROJECT_DIR$/images/DataSecure_i116.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/desktop/images/DataSecure_i116.png" afterPath="$PROJECT_DIR$/images/DataSecure_i116.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/desktop/images/accordian.gif" afterPath="$PROJECT_DIR$/images/accordian.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/desktop/images/animation.png" afterPath="$PROJECT_DIR$/images/animation.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/desktop/images/apptable.gif" afterPath="$PROJECT_DIR$/images/apptable.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/desktop/images/bogus.png" afterPath="$PROJECT_DIR$/images/bogus.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/desktop/images/book48x48.png" afterPath="$PROJECT_DIR$/images/book48x48.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/desktop/images/delete48x48.jpg" afterPath="$PROJECT_DIR$/images/delete48x48.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/desktop/images/desktop.gif" afterPath="$PROJECT_DIR$/images/desktop.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/desktop/images/desktop3.jpg" afterPath="$PROJECT_DIR$/images/desktop3.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/desktop/images/finder48x48.png" afterPath="$PROJECT_DIR$/images/finder48x48.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/desktop/images/fries_img.png" afterPath="$PROJECT_DIR$/images/fries_img.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/desktop/images/gears.gif" afterPath="$PROJECT_DIR$/images/gears.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/desktop/images/grid32x32.gif" afterPath="$PROJECT_DIR$/images/grid32x32.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/desktop/images/grid48x48.gif" afterPath="$PROJECT_DIR$/images/grid48x48.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/desktop/images/hatch.gif" afterPath="$PROJECT_DIR$/images/hatch.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/desktop/images/hd-bg.gif" afterPath="$PROJECT_DIR$/images/hd-bg.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/desktop/images/hd-tb-bg.gif" afterPath="$PROJECT_DIR$/images/hd-tb-bg.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/desktop/images/icons-bg.png" afterPath="$PROJECT_DIR$/images/icons-bg.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/desktop/images/im32x32.gif" afterPath="$PROJECT_DIR$/images/im32x32.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/desktop/images/im48x48.gif" afterPath="$PROJECT_DIR$/images/im48x48.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/desktop/images/im48x48.png" afterPath="$PROJECT_DIR$/images/im48x48.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/desktop/images/launcher-bg.gif" afterPath="$PROJECT_DIR$/images/launcher-bg.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/desktop/images/launcher-btn.gif" afterPath="$PROJECT_DIR$/images/launcher-btn.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/desktop/images/locator48x48.gif" afterPath="$PROJECT_DIR$/images/locator48x48.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/desktop/images/logout.gif" afterPath="$PROJECT_DIR$/images/logout.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/desktop/images/logout.png" afterPath="$PROJECT_DIR$/images/logout.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/desktop/images/member.gif" afterPath="$PROJECT_DIR$/images/member.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/desktop/images/member.png" afterPath="$PROJECT_DIR$/images/member.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/desktop/images/mzl.asnamnlf.800x500-75.jpg" afterPath="$PROJECT_DIR$/images/mzl.asnamnlf.800x500-75.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/desktop/images/officer48x48.png" afterPath="$PROJECT_DIR$/images/officer48x48.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/desktop/images/powered.gif" afterPath="$PROJECT_DIR$/images/powered.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/desktop/images/powered.png" afterPath="$PROJECT_DIR$/images/powered.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/desktop/images/tabs.gif" afterPath="$PROJECT_DIR$/images/tabs.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/desktop/images/taskbar/black/item-over.gif" afterPath="$PROJECT_DIR$/images/taskbar/black/item-over.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/desktop/images/taskbar/black/scroll-left.gif" afterPath="$PROJECT_DIR$/images/taskbar/black/scroll-left.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/desktop/images/taskbar/black/scroll-right.gif" afterPath="$PROJECT_DIR$/images/taskbar/black/scroll-right.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/desktop/images/taskbar/black/start-menu-left-corners.png" afterPath="$PROJECT_DIR$/images/taskbar/black/start-menu-left-corners.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/desktop/images/taskbar/black/start-menu-left-right.png" afterPath="$PROJECT_DIR$/images/taskbar/black/start-menu-left-right.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/desktop/images/taskbar/black/start-menu-right-corners.png" afterPath="$PROJECT_DIR$/images/taskbar/black/start-menu-right-corners.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/desktop/images/taskbar/black/start-menu-right.png" afterPath="$PROJECT_DIR$/images/taskbar/black/start-menu-right.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/desktop/images/taskbar/black/start-menu-top-bottom.png" afterPath="$PROJECT_DIR$/images/taskbar/black/start-menu-top-bottom.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/desktop/images/taskbar/black/startbutton-icon.gif" afterPath="$PROJECT_DIR$/images/taskbar/black/startbutton-icon.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/desktop/images/taskbar/black/startbutton.gif" afterPath="$PROJECT_DIR$/images/taskbar/black/startbutton.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/desktop/images/taskbar/black/taskbar-split-h.gif" afterPath="$PROJECT_DIR$/images/taskbar/black/taskbar-split-h.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/desktop/images/taskbar/black/taskbar-start-panel-bg.gif" afterPath="$PROJECT_DIR$/images/taskbar/black/taskbar-start-panel-bg.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/desktop/images/taskbar/black/taskbutton.gif" afterPath="$PROJECT_DIR$/images/taskbar/black/taskbutton.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/desktop/images/taskbar/black/taskbuttons-panel-bg.gif" afterPath="$PROJECT_DIR$/images/taskbar/black/taskbuttons-panel-bg.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/desktop/images/winbar-bg.gif" afterPath="$PROJECT_DIR$/images/winbar-bg.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/desktop/images/winbar-btn.gif" afterPath="$PROJECT_DIR$/images/winbar-btn.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/desktop/images/windows-bg.gif" afterPath="$PROJECT_DIR$/images/windows-bg.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/desktop/js/App.js" afterPath="$PROJECT_DIR$/js/App.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/desktop/js/Desktop.js" afterPath="$PROJECT_DIR$/js/Desktop.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/desktop/js/Module.js" afterPath="$PROJECT_DIR$/js/Module.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/desktop/js/StartMenu.js" afterPath="$PROJECT_DIR$/js/StartMenu.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/desktop/js/TaskBar.js" afterPath="$PROJECT_DIR$/js/TaskBar.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/desktop/wallpapers/blue.jpg" afterPath="$PROJECT_DIR$/wallpapers/blue.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/desktop/wallpapers/desk.jpg" afterPath="$PROJECT_DIR$/wallpapers/desk.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/desktop/wallpapers/desktop.jpg" afterPath="$PROJECT_DIR$/wallpapers/desktop.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/desktop/wallpapers/desktop2.jpg" afterPath="$PROJECT_DIR$/wallpapers/desktop2.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/desktop/wallpapers/ext.gif" afterPath="$PROJECT_DIR$/wallpapers/ext.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/desktop/wallpapers/shiny.gif" afterPath="$PROJECT_DIR$/wallpapers/shiny.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/desktop/wallpapers/sky.jpg" afterPath="$PROJECT_DIR$/wallpapers/sky.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/desktop/wallpapers/snowleopard.jpg" afterPath="$PROJECT_DIR$/wallpapers/snowleopard.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/desktop/all-js-min.js" afterPath="$PROJECT_DIR$/desktop/all-js-min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/desktop/desktop.js" afterPath="$PROJECT_DIR$/desktop/desktop.js" />
     </list>
     <ignored path="root.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -26,26 +1196,7 @@
     <favorites_list name="root" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="desktop.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/desktop/desktop.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="53" column="0" selection-start="1864" selection-end="1864" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="desktop.js" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/desktop/desktop.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="598" column="42" selection-start="15929" selection-end="15929" vertical-scroll-proportion="0.5408163">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FindManager">
     <FindUsagesManager>
@@ -110,38 +1261,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="root" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="root" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="desktop" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="root" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="root" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="desktop" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="css" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
@@ -181,7 +1300,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1726" y="52" width="1579" height="944" extended-state="0" />
+    <frame x="1691" y="54" width="1656" height="952" extended-state="0" />
     <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -189,7 +1308,7 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Dependency Viewer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25686276" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2881145" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -197,6 +1316,7 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -227,7 +1347,7 @@
     <option name="CHECK_COMMIT_MESSAGE_SPELLING" value="true" />
     <option name="DEFAULT_PATCH_EXTENSION" value="patch" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" />
+    <option name="LAST_COMMIT_MESSAGE" value="added a todays specials shortcut" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="true" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -240,21 +1360,12 @@
     <option name="UPDATE_GROUP_BY_CHANGELIST" value="false" />
     <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
     <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
+    <MESSAGE value="added a todays specials shortcut" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/FisheyeMenu/scripts/FisheyeMenu.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/desktop/login.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="31" column="46" selection-start="1210" selection-end="1210" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/desktop/login.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="4" column="30" selection-start="258" selection-end="258" vertical-scroll-proportion="0.0" />
@@ -315,14 +1426,21 @@
         <state line="692" column="84" selection-start="14684" selection-end="14694" vertical-scroll-proportion="0.7894022" />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/alvand/stringbuffer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="558" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/desktop/desktop.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="53" column="0" selection-start="1864" selection-end="1864" vertical-scroll-proportion="0.0" />
+        <state line="53" column="0" selection-start="1864" selection-end="1864" vertical-scroll-proportion="-0.625">
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/desktop/desktop.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="598" column="42" selection-start="15929" selection-end="15929" vertical-scroll-proportion="0.5408163">
+        <state line="609" column="47" selection-start="16258" selection-end="16258" vertical-scroll-proportion="0.018939395">
           <folding />
         </state>
       </provider>
