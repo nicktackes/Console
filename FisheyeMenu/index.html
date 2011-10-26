@@ -1,0 +1,89 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+  <title>Ext FisheyeMenu extention</title>
+  <link type="text/css" rel="stylesheet" href="styles/FisheyeMenu.css" />
+		<script type="text/javascript" src="../adapter/ext/ext-base.js">
+		</script>
+		<!-- ENDLIBS -->
+
+		<script type="text/javascript" src="../ext-all.js">
+		</script>
+  <script type="text/javascript" src="scripts/FisheyeMenu.js"></script>
+
+  <script type="text/javascript" src="scripts/FisheyeMenuExtention.js"></script>
+  <script type="text/javascript">
+  // <![CDATA[
+        Ext.onReady(function() {
+
+            var fme = new Ext.ux.FisheyeMenuExtention({
+				renderTo : 'fisheye-menu',
+				hAlign : 'center', // left|center|right
+				vAlign : 'top', // top|bottom
+				itemWidth : 60,
+                items : [{
+                    text: 'Feature Walk-thru',
+					imagePath: 'images/wizard48x48.png',
+					url: '#'
+                }, {
+                    text: 'Log Viewer',
+					imagePath: 'images/logviewer48x48.png',
+					url: '#'
+                }, {
+                    text: 'Database Logins',
+                    imagePath: 'images/database48x48.gif',
+					url: '#'
+                }, {
+                    text: 'DataSecure Logins',
+					imagePath: 'images/DataSecure48x21.png',
+					url: '#'
+                }, {
+                    text: 'Tokenized Tables',
+					imagePath: 'images/grid48x48.png',
+					url: '#'
+                }, {
+                    text: 'Create Token',
+                    imagePath: 'images/token48x48.png',
+					url: '#'
+                }, {
+                    text: 'Redeem Token',
+                    imagePath: 'images/redeem48x48.png',
+					url: '#'
+                }, {
+                    text: 'Delete Token',
+                    imagePath: 'images/delete48x48.png',
+					url: '#'
+                }]
+            });
+
+			Ext.fly('btn-add').on('click', function() {
+				fme.addItem({
+                    text: 'Calendar',
+                    imagePath: 'images/calendar.png',
+					url: 'http://www.google.com/calendar'				
+				});
+			});
+
+			Ext.fly('btn-remove').on('click', function() {
+				fme.removeItem(Ext.getDom('item-index').value);
+			});
+                        
+        });
+  // ]]>
+  </script>
+  
+</head>
+
+<body>
+
+  <div id="fisheye-menu"></div>
+
+  <div><button id="btn-add">Add menu item</button></div>
+  <div>
+    <button id="btn-remove">Remove menu item</button>
+	<input type="text" id="item-index" style="width: 20px;" value="2" />
+  </div>
+
+</body>
+</html>
